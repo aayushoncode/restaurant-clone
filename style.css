@@ -195,7 +195,7 @@ card-section{
 }
 .events{
     width: 100%;
-    background-color: bisque;
+    background-color: rgb(222, 200, 173);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -210,12 +210,13 @@ card-section{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 5px;    
+    gap: 10px;    
 }
 
 .inputs{
     display: flex ;
     gap: 50px;
+   
 
 }
 .left input{
@@ -226,7 +227,7 @@ width: 100%;
 }
 .form-container p{
     font-size: 15px;
-    color: gray;
+    color: rgb(125, 121, 121);
     font-weight: 500;
     overflow: hidden;
 }
@@ -236,7 +237,7 @@ width: 100%;
 
 
 textarea{
-    width: 40vw;
+    width: 96.5%;
     height: 10vh;
 }
 
@@ -246,6 +247,10 @@ textarea{
     padding: 10px ;
     padding-left:30px ;
     height: fit-content;
-    background-color: red;
+
     }
+
+
+
+
 
